@@ -22,7 +22,8 @@ namespace Hello_World
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); //10101
+
         }
     }
 }
